@@ -14,6 +14,9 @@ Steps
   1. Open terminal and Start our docker environment.
   2. Create a docker-compose file as "docker-compose.yml" .
   3. Then run a simple command as given :
+  
        docker-compose up -d
+       
        docker ps
+       
      Above command will create a selenium hub with a chrome node.
